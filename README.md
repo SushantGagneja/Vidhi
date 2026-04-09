@@ -44,7 +44,7 @@ On the legal side, the paralegal sees the transcript with distress overlay, the 
 
 ##  Tech Stack 
 
-- **Frontend:** Next.js or React + Vite, Tailwind CSS or clean custom CSS (shadcn/ui only if it speeds development up).
+- **Frontend:** Next.js or React + Vite, Tailwind CSS or clean custom CSS.
 - **Backend:** FastAPI in Python.
-- **Database:** PostgreSQL (with `pgvector` for semantic retrieval, or plain Postgres for the MVP).
+- **Database:** PostgreSQL (with `pgvector` for semantic retrieval ).
 - **Storage:** Encrypted blob/file storage for transcript and video artifacts.
