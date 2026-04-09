@@ -1,0 +1,42 @@
+{
+  "case_id": "DEMO-001",
+  "counselor_name": "Sunita Sharma",
+  "chunks": [
+    {
+      "text": "He locked the door. I was scared. I had worked there since January at the Sector 17 office.",
+      "chunk_index": 0,
+      "stress_label": "Moderate",
+      "stress_score": 0.5,
+      "signal_voice": 0.55,
+      "signal_face": 0.48,
+      "signal_words": 0.52
+    },
+    {
+      "text": "Then in March he started messaging me at night. Phir usne kaha ki agar bataya toh naukri chali jayegi.",
+      "chunk_index": 1,
+      "stress_label": "High Distress",
+      "stress_score": 0.78,
+      "signal_voice": 0.82,
+      "signal_face": 0.76,
+      "signal_words": 0.71
+    },
+    {
+      "text": "Before he came to the office that day, I had called my sister. The next morning I could not sleep.",
+      "chunk_index": 2,
+      "stress_label": "High Distress",
+      "stress_score": 0.72,
+      "signal_voice": 0.74,
+      "signal_face": 0.69,
+      "signal_words": 0.68
+    },
+    {
+      "text": "Finally I went to the police station with my counselor. I want him stopped. I do not want to repeat everything again and again.",
+      "chunk_index": 3,
+      "stress_label": "Moderate",
+      "stress_score": 0.48,
+      "signal_voice": 0.5,
+      "signal_face": 0.44,
+      "signal_words": 0.61
+    }
+  ]
+}
